@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- _sidebar.md -->
 * [Welcome](/)
 - Template folder structure 
     - [Item folder](item-folder.md)
