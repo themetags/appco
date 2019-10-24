@@ -36,8 +36,8 @@ We have background video hero section please check demo 5 or `index-5.html`
 <!--hero section end-->
 ```
 
-This is background video hero section. In this section you can find bellow `div`. In this div you can see a youtube video link end of the link you can see your video ID like this `LV3cjaA7NtE` you just replace this id. Another attribute is `startAt:15` it's mean this video start from after 15 second latter. If you want video start from 0 second then used this attribute `startAt:0`.
+This is background video hero section. In this section you can find bellow `div`. In this div you can see a youtube video link end of the link you can see your video ID like this `gOqlwlQjVis` you just replace this id. Another attribute is `startAt:0` it's mean this video start from 0.
 
 ```html
-<div class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=LV3cjaA7NtE',containment:'.video-section-wrap', quality:'highres', autoPlay:true, showControls: false, startAt:15, mute:true, opacity: 1}"></div>
+<div class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=LV3cjaA7NtE',containment:'.video-section-wrap', quality:'highres', autoPlay:true, showControls: false, startAt:0, mute:true, opacity: 1}"></div>
 ```
