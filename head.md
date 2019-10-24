@@ -10,7 +10,7 @@
 
     <!-- SEO Meta description -->
     <meta name="description"
-          content="AppCo App Landing Page Template. agency landing page template helps you easily create websites for your business, marketing landing page template form promotion and many more.">
+          content="AppCo app landing page template or product landing page template helps you easily create websites for your app or product,  landing page template form promotion and many more.">
     <meta name="author" content="ThemeTags">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
@@ -29,7 +29,8 @@
     <link rel="icon" href="img/favicon.png" type="image/png" sizes="16x16">
 
     <!--google fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Comfortaa:500,600,700%7COpen+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7COpen+Sans&display=swap"
+          rel="stylesheet">
 
     <!--Bootstrap css-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -37,6 +38,10 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <!--Themify icon css-->
     <link rel="stylesheet" href="css/themify-icons.css">
+    <!--animated css-->
+    <link rel="stylesheet" href="css/animate.min.css">
+    <!--ytplayer css-->
+    <link rel="stylesheet" href="css/jquery.mb.YTPlayer.min.css">
     <!--Owl carousel css-->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">

@@ -1,2 +1,2 @@
-### Hero section
+### Promo section
 

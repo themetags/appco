@@ -31,7 +31,7 @@
         <div class="main">
         
             <!--hero section start-->
-            <section class="hero-section pt-100 background-img" style="background: url('img/hero-bg-2.jpg')no-repeat center center / cover">
+           <section class="hero-section pt-100 background-img" style="background: url('img/app-hero-bg.jpg')no-repeat center center / cover">
                 ...
             </section>
             <!--hero section end-->
@@ -51,9 +51,30 @@
         </div>
         <!--body content wrap end-->
         
+        <!--shape image start-->
+        <div class="shape-img subscribe-wrap">
+            <img src="img/footer-top-shape.svg" alt="footer shape" class="img-fluid">
+            <div class="container">
+                <!--footer subscribe form -->
+            </div>
+        </div>
+        <!--shape image end-->
+        
         <!--footer section start-->
-        <footer id="footer" class="space-small footer-section gradient-bg">
-            ...
+        <footer class="footer-setion">
+        
+            <!--footer top start-->
+            <div class="footer-top pt-150 pb-5 background-img-2"
+                 style="background: url('img/footer-bg.png')no-repeat center top / cover">
+                
+            </div>
+            <!--footer top end-->
+        
+            <!--footer copyright start-->
+            <div class="footer-bottom gray-light-bg pt-4 pb-4">
+                
+            </div>
+            <!--footer copyright end-->
         </footer>
         <!--footer section end-->
         

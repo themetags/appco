@@ -23,6 +23,8 @@ Below `css` files included in this css folder
 |     |-- owl.carousel.min.css
 |     |-- owl.theme.default.css
 |     |-- themify-icons.css
+|     |-- animate.min.css
+|     |-- jquery.mb.YTPlayer.min.css
 |     |-- style.css
 |     |-- responsive.css
 ``` 
@@ -32,6 +34,8 @@ Below `css` files included in this css folder
 * `mignific-popup.css` file contain - [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/) Popup css. It's is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device.
 * `owl.carousel.min.css` and `owl.theme.default.css` file contain - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) custom carousel css. It's Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.
 * `themify-icons.css` file contain - [Themify Icons](https://themify.me/themify-icons) another line icon css.
+* `animate.min.css` file contain - [Animation css](https://daneden.github.io/animate.css/) website animation.
+* `jquery.mb.YTPlayer.min.css` file contain - [Background video css](https://pupunzi.com/mb.components/mb.YTPlayer/demo/demo.html) it's background video css.
 * `style.css` fil contain all custom css.
 * `responsive.css` for small device support responsive css write here.
 
@@ -75,6 +79,8 @@ js
 |-- jquery.magnific-popup.min.js
 |-- owl.carousel.min.js
 |-- popper.min.js
+|-- jquery.mb.YTPlayer.min.js
+|-- wow.min.js
 |-- scripts.js
 
 ```
@@ -82,7 +88,9 @@ js
 * `jquery.easing.min.js` [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/) it's jQuery plugin from [GSGD](http://gsgd.co.uk/) to give advanced easing options.
 * `jquery-3.4.1.min.js` [jQuery](https://jquery.com/) plugin.
 * `jquery.magnific-popup.min.js` [Magnific Popup Js](https://dimsemenov.com/plugins/magnific-popup/) is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device.
-* `owl.carousel.min.js` [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) custom carousel css. It's Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.
+* `owl.carousel.min.js` [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) custom carousel js. It's Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.
+* `jquery.mb.YTPlayer.min.js` [Background video](https://pupunzi.com/mb.components/mb.YTPlayer/demo/demo.html) for youtube, vimeo background video js
+* `wow.min.js` [Website animation](https://wowjs.uk/) for animation
 * `scripts.js` is contain all custom js.
 
 
