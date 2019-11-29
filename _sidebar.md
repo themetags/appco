@@ -13,6 +13,7 @@
      - [Header Menu Item](header-menu.md)
      - [Hero section](hero-section.md)
      - [Background video](background-video.md)
+     - [Coming Soon Page](coming-soon.md)
      - [Promo section](promo-section.md)
      - [Footer](footer.md)
      - [Utility Classes](utility-classes.md)
