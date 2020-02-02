@@ -9,8 +9,8 @@
 
 
 ### v2 (30 Nov 19)
-- **Bootstrap and Proper js version Updated**
-- **style.css and scripts.js** file updated
+- Bootstrap and Proper js version Updatedgit
+- style.css and scripts.js file updated
 
 ```code
 v2.0 - 30th Nov, 2019
@@ -34,4 +34,20 @@ FILE UPDATED:
 -------------------------------------------------------------------
 - css/style.css
 - js/scripts.js
+```
+
+### v2.1.0 (3rd Jan 2020)
+- Safari browser issue fixed
+- style.css and html file updated
+
+```code
+v2.1.0 - 3rd Jan, 2020
+-------------------------------------------------------------------
+- Fix the browser safari issues
+- Added blog section
+
+FILE UPDATED:
+-------------------------------------------------------------------
+- css/style.css
+- html files
 ```
