@@ -26,5 +26,5 @@
     - [CSS & Fonts](css-fonts.md)    
 * Changelog
 
-    * [-1.0.0 Initial Release](changelog.md)
+    * [ All Releases - v2.1](changelog.md)
 
