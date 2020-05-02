@@ -1,12 +1,36 @@
 ## Change Log
 
-### v0 (29 Oct 19)
-- **Release**: First Initial Release
+
+### v2.5 – 2nd May, 2020
+- Bootstrap js updated
+- jQuery version updated
+- Dynamic contact form with PHP
+- Dynamic get a quote form with PHP
+
+```code
+- Updated the jQuery version to 3.5
+- Working Contact Form with PHP
+- Working Get a Quote Form with PHP
+- Fixed mobile nav menu issue.
+```
 
 
-### v1 (30 Oct 19)
-- **Image size**: Footer top shape image size issue solved.
 
+### v2.1.0 (3rd Jan 2020)
+- Safari browser issue fixed
+- style.css and html file updated
+
+```code
+v2.1.0 - 3rd Jan, 2020
+-------------------------------------------------------------------
+- Fix the browser safari issues
+- Added blog section
+
+FILE UPDATED:
+-------------------------------------------------------------------
+- css/style.css
+- html files
+```
 
 ### v2 (30 Nov 19)
 - Bootstrap and Proper js version Updatedgit
@@ -36,18 +60,9 @@ FILE UPDATED:
 - js/scripts.js
 ```
 
-### v2.1.0 (3rd Jan 2020)
-- Safari browser issue fixed
-- style.css and html file updated
 
-```code
-v2.1.0 - 3rd Jan, 2020
--------------------------------------------------------------------
-- Fix the browser safari issues
-- Added blog section
+### v1 (30 Oct 19)
+- **Image size**: Footer top shape image size issue solved.
 
-FILE UPDATED:
--------------------------------------------------------------------
-- css/style.css
-- html files
-```
+### v0 (29 Oct 19)
+- **Release**: First Initial Release
