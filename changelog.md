@@ -1,6 +1,14 @@
 ## Change Log
 
 
+### v2.5.2 – 11nd May, 2020
+```code
+- Fixed the contact form and get a quote form issue
+
+UPDATED FILES:
+- js/scripts.js
+```
+
 ### v2.5 – 2nd May, 2020
 - Bootstrap js updated
 - jQuery version updated
