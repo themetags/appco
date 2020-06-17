@@ -1,5 +1,8 @@
 ## Change Log
-
+### v3.0.0 – 17th June, 2020
+```code
+- Added the RTL verion
+```
 
 ### v2.5.2 – 11nd May, 2020
 ```code
