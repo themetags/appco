@@ -1,4 +1,16 @@
 ## Change Log
+
+### v3.5.0 – 13th Oct, 2020
+```code
+- Added new demo page for Black Friday 
+
+ADDED Files:
+- index-7.html
+
+UPDATED FILES:
+- js/style.css
+```
+
 ### v3.0.0 – 17th June, 2020
 ```code
 - Added the RTL verion
