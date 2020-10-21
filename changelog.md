@@ -1,6 +1,6 @@
 ## Change Log
 
-### v3.5.0 – 13th Oct, 2020
+### v3.5.0 – 21th Oct, 2020
 ```code
 - Added new demo page for Black Friday 
 
