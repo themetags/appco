@@ -1,4 +1,15 @@
 ## Change Log
+### v3.5.0 – 19th Feb, 2021
+```code
+- Added new demo
+- Updated section header title and short discription
+- Remove 'YTPlayer' js with css file frome js and css folder
+
+UPDATED FILES:
+- js/scripts.js
+- css/style.css
+```
+
 ### v3.0.0 – 17th June, 2020
 ```code
 - Added the RTL verion
