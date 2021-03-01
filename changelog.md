@@ -1,4 +1,5 @@
 ## Change Log
+<<<<<<< HEAD
 ### v3.7.0 – 3rd Mar, 2021
 ```code
 - Added new demo
@@ -8,6 +9,18 @@
 UPDATED FILES:
 - js/scripts.js
 - css/style.css
+=======
+
+### v3.5.0 – 21th Oct, 2020
+```code
+- Added new demo page for Black Friday 
+
+ADDED Files:
+- index-7.html
+
+UPDATED FILES:
+- js/style.css
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
 ```
 
 ### v3.0.0 – 17th June, 2020

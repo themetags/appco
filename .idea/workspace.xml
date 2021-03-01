@@ -15,8 +15,13 @@
         <entry file="file://$PROJECT_DIR$/_sidebar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="380">
                 <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="42" />
+=======
+              <first_editor relative-caret-position="441">
+                <caret line="21" column="41" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="41" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
               </first_editor>
               <second_editor />
             </state>
@@ -27,7 +32,11 @@
         <entry file="file://$PROJECT_DIR$/get-a-quote.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="1540">
+=======
+              <first_editor relative-caret-position="470">
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
                 <caret line="77" selection-start-line="77" selection-end-line="77" />
               </first_editor>
               <second_editor />
@@ -39,8 +48,13 @@
         <entry file="file://$PROJECT_DIR$/contact-us.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="1900">
                 <caret line="95" selection-start-line="95" selection-end-line="95" />
+=======
+              <first_editor relative-caret-position="1995">
+                <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
               </first_editor>
               <second_editor />
             </state>
@@ -51,7 +65,11 @@
         <entry file="file://$PROJECT_DIR$/footer.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="280">
+=======
+              <first_editor relative-caret-position="294">
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
                 <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               </first_editor>
               <second_editor />
@@ -63,7 +81,11 @@
         <entry file="file://$PROJECT_DIR$/background-video.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="820">
+=======
+              <first_editor relative-caret-position="861">
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
                 <caret line="41" column="190" selection-start-line="41" selection-start-column="190" selection-end-line="41" selection-end-column="190" />
               </first_editor>
               <second_editor />
@@ -95,8 +117,13 @@
         <entry file="file://$PROJECT_DIR$/changelog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="20">
                 <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+=======
+              <first_editor relative-caret-position="42">
+                <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
               </first_editor>
               <second_editor />
             </state>
@@ -117,7 +144,11 @@
         <entry file="file://$PROJECT_DIR$/header.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="140">
+=======
+              <first_editor relative-caret-position="147">
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
                 <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="25" />
               </first_editor>
               <second_editor />
@@ -155,10 +186,17 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="2558" />
     <option name="y" value="87" />
     <option name="width" value="1258" />
     <option name="height" value="1066" />
+=======
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -181,7 +219,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/appco-html" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -217,21 +255,33 @@
       <workItem from="1589537731676" duration="399000" />
       <workItem from="1592389982156" duration="272000" />
       <workItem from="1592390301666" duration="1471000" />
+<<<<<<< HEAD
       <workItem from="1592396908683" duration="815000" />
       <workItem from="1592655129722" duration="289000" />
       <workItem from="1595258503858" duration="184000" />
       <workItem from="1613580673551" duration="1630000" />
       <workItem from="1613666455784" duration="162000" />
+=======
+      <workItem from="1602500199715" duration="1241000" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="11545000" />
+=======
+    <option name="totallyTimeSpent" value="9706000" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -240,7 +290,11 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19825707" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19800569" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -649,7 +703,11 @@
     <entry file="file://$PROJECT_DIR$/footer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="280">
+=======
+          <first_editor relative-caret-position="294">
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
             <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           </first_editor>
           <second_editor />
@@ -659,7 +717,11 @@
     <entry file="file://$PROJECT_DIR$/background-video.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="820">
+=======
+          <first_editor relative-caret-position="861">
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
             <caret line="41" column="190" selection-start-line="41" selection-start-column="190" selection-end-line="41" selection-end-column="190" />
           </first_editor>
           <second_editor />
@@ -683,6 +745,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/head.md">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -691,6 +754,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.md">
+=======
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="140">
@@ -703,8 +768,13 @@
     <entry file="file://$PROJECT_DIR$/contact-us.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="1900">
             <caret line="95" selection-start-line="95" selection-end-line="95" />
+=======
+          <first_editor relative-caret-position="147">
+            <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="25" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
           </first_editor>
           <second_editor />
         </state>
@@ -713,8 +783,13 @@
     <entry file="file://$PROJECT_DIR$/get-a-quote.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="1540">
             <caret line="77" selection-start-line="77" selection-end-line="77" />
+=======
+          <first_editor relative-caret-position="441">
+            <caret line="21" column="41" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="41" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
           </first_editor>
           <second_editor />
         </state>
@@ -723,8 +798,13 @@
     <entry file="file://$PROJECT_DIR$/_sidebar.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="380">
             <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="42" />
+=======
+          <first_editor relative-caret-position="1995">
+            <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
           </first_editor>
           <second_editor />
         </state>
@@ -733,8 +813,23 @@
     <entry file="file://$PROJECT_DIR$/changelog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="20">
             <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+=======
+          <first_editor relative-caret-position="470">
+            <caret line="77" selection-start-line="77" selection-end-line="77" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changelog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+>>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
           </first_editor>
           <second_editor />
         </state>
