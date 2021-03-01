@@ -1,5 +1,5 @@
 ## Change Log
-### v3.7.0 – 19th Feb, 2021
+### v3.7.0 – 3rd Mar, 2021
 ```code
 - Added new demo
 - Updated section header title and short discription
