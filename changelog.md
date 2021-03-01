@@ -11,7 +11,7 @@ ADDED Files:
 UPDATED FILES:
 - js/scripts.js
 - css/style.css
-=======
+```
 
 ### v3.5.0 – 21th Oct, 2020
 ```code
