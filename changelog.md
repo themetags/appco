@@ -1,10 +1,12 @@
 ## Change Log
-<<<<<<< HEAD
 ### v3.7.0 – 3rd Mar, 2021
 ```code
 - Added new demo
 - Updated section header title and short discription
 - Remove 'YTPlayer' js with css file frome js and css folder
+
+ADDED Files:
+- index-8.html
 
 UPDATED FILES:
 - js/scripts.js
@@ -20,8 +22,6 @@ ADDED Files:
 
 UPDATED FILES:
 - js/style.css
->>>>>>> e7de49a7cf23310f24cdeaf55eb06820c5da8403
-```
 
 ### v3.0.0 – 17th June, 2020
 ```code
